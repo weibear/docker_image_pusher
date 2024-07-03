@@ -3,4 +3,4 @@ python:alpine3.19
 homeassistant/home-assistant:dev
 herberthe0229/iptv-sources
 ghcr.io/anduin2017/how-to-cook:latest
-savatar101/omniparse:0.1
+savatar101/omniparse
