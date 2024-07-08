@@ -1,1 +1,2 @@
 excalidraw/excalidraw
+ghcr.io/b310-digital/teammapper:latest
