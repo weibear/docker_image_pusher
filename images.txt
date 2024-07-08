@@ -4,4 +4,3 @@ homeassistant/home-assistant:dev
 herberthe0229/iptv-sources
 ghcr.io/anduin2017/how-to-cook:latest
 savatar101/omniparse
-excalidraw/excalidraw
