@@ -1,2 +1,3 @@
 excalidraw/excalidraw
 ghcr.io/b310-digital/teammapper:latest
+savatar101/omniparse:0.1
