@@ -1,3 +1,4 @@
 excalidraw/excalidraw
 ghcr.io/b310-digital/teammapper:latest
 savatar101/omniparse
+youshanderfeiyang/allinone:laster
